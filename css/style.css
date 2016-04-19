@@ -1,13 +1,3 @@
-@import "http://webfonts.ru/import/ralewayc.css";
-
-@import "http://webfonts.ru/import/ptserif.css";
-
-/*---------------------------------------------------
-    LESS Elements 0.9
-  ---------------------------------------------------
-    A set of useful LESS mixins
-    More info at: http://lesselements.com
-  ---------------------------------------------------*/
 
 * {
   padding: 0;
@@ -29,7 +19,7 @@ a {
 }
 
 h2 {
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   font-size: 30px;
   font-weight: bold;
   text-transform: uppercase;
@@ -43,7 +33,7 @@ h2 {
 
 .button {
   font-size: 14px;
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   display: inline-block;
   color: #000000;
   border-radius: 17px 18px 18px 17px;
@@ -203,7 +193,7 @@ header nav .promo p.promophone {
   text-align: left;
   font-size: 13px;
   color: #d9d9d9;
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
 }
 
 header nav a.button {
@@ -214,7 +204,7 @@ header h1 {
   padding: 43px 0 0 10px;
   display: inline-block;
   width: 500px;
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   font-weight: normal;
   text-transform: uppercase;
   color: #ffffff;
@@ -268,7 +258,7 @@ header h1 span.cost:after {
 .sort .benefits {
   float: left;
   width: 33.3%;
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   text-transform: uppercase;
   color: #000000;
   border-right: 1px solid #c2c2c2;
@@ -413,7 +403,7 @@ header h1 span.cost:after {
 }
 
 .interactiv h3 {
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   font-weight: normal;
   font-size: 30px;
   line-height: 60px;
@@ -456,7 +446,7 @@ header h1 span.cost:after {
 
 .how .reasons h3 {
   display: inline;
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   font-size: 30px;
   font-weight: normal;
   line-height: 44px;
@@ -572,7 +562,7 @@ header h1 span.cost:after {
 }
 
 .application .block p:nth-child(1) {
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   font-size: 48px;
   font-style: normal;
   text-transform: uppercase;
@@ -620,7 +610,7 @@ header h1 span.cost:after {
 }
 
 .facts .fact h4 {
-  font-family: 'Raleway Cyr';
+  font-family: 'Raleway';
   color: #000;
   font-size: 60px;
   text-transform: uppercase;
